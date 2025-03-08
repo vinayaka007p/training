@@ -1,6 +1,5 @@
-#include <stdio.h>
-int main() {
-   printf("Hello, World");
-   return 0;
+#include<stdio.h>
+#include"hello.h
+void printmessage(const char*massage){
+printf("%s\n",message);
 }
-
